@@ -1,0 +1,7 @@
+com\example\personne\PersonneApplication.class
+com\example\personne\SwaggerConfig.class
+com\example\personne\repository\PersonneRepository.class
+com\example\personne\services\PersonneService.class
+com\example\personne\controller\PersonneController.class
+com\example\personne\entity\Personne.class
+com\example\personne\entity\PersonneAvecAge.class
